@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Kimleng
 I am a Software Engineering undergraduate at the University of Technology Sydney, specialising in Front-end Web Development. Currently, I am developing an innovative application designed to offer a collection of eBooks for babies. I have a strong passion for learning new skills and undertaking new projects, constantly seeking opportunities to enhance my expertise and contribute to impactful solutions.
 
+## 💭 Current Learning Focus
+I am currently deepening my web development skills by learning React.js.
 
 ## 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimlengthai/) 
