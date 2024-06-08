@@ -4,7 +4,7 @@ I am a Software Engineering undergraduate at the University of Technology Sydney
 ## 💭 Current Learning Focus
 I am currently deepening my web development skills by learning React.js.
 
-## 🌐 Social
+## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimlengthai/) 
 
 # 💻 Tech Stack
