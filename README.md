@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kimleng
-I am a Software Engineering undergraduate at the University of Technology Sydney, specialising in Web Development. Currently, I am learning how to implement a login form using React.js and Firebase. I am passionate about learning new skills and undertaking new projects, constantly seeking opportunities to enhance my expertise and contribute to impactful solutions.
+I am a Software Engineering undergraduate at the University of Technology Sydney, specialising in Web Development. Currently, I am learning how to implement a random password generator using HTML, CSS, and JavaScript. I am passionate about learning new skills and undertaking new projects, constantly seeking opportunities to enhance my expertise and contribute to impactful solutions.
 
 ## 💭 Current Learning Focus
 I am currently deepening my web development skills by learning React.js.
