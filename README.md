@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kimleng
 I am a Software Engineering undergraduate at the University of Technology Sydney, specialising in Web Development. I am passionate about learning new skills and undertaking new projects, constantly seeking opportunities to enhance my expertise and contribute to impactful solutions.
 
-## 💭 Current Learning Focus
+## 💭 My Learning Focus
 I am currently deepening my web development skills by learning React.js.
 
 ## 🌐 Connect with Me
