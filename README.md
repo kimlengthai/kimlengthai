@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Kimleng
 I am a Software Engineering undergraduate at the University of Technology Sydney, specialising in Web Development. I am passionate about learning new skills and undertaking new projects, constantly seeking opportunities to enhance my expertise and contribute to impactful solutions.
 
-## 💭 My Learning Focus
-I am currently deepening my web development skills by learning React.js.
+## 💭 Current Learning Focus
+I am currently deepening my web development skills by learning Next.js.
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimlengthai/) 
