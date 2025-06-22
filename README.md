@@ -6,6 +6,7 @@ I am currently deepening my technical skills by learning TypeScript and building
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimlengthai/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://kimleng-thai.netlify.app/)
 
 # 💻 Tech Stack
 
