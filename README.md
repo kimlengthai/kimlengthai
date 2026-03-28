@@ -9,10 +9,9 @@ I focus on building practical, production-ready solutions and continuously impro
 ## 💼 Professional Experience
 
 **Junior Software Engineer – ViCyber**
-- Developed and maintained a Third Party Risk Assessment platform using React and Ant Design
+- Developed and maintained a web application using React and Ant Design
 - Built serverless backend services using Python, AWS Lambda, and API Gateway
 - Designed and integrated data storage using DynamoDB and S3
-- Implemented risk scoring logic, reporting features, and assessment workflows
 
 ## 🚀 Core Focus
 - Frontend development using React and Ant Design  
