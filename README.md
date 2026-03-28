@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kimleng
 
-I am a Junior Software Engineer currently working at ViCyber, where I build and maintain cloud-based applications using React, Python, and AWS.
+I am a Junior Software Engineer currently working at ViCyber, where I design and build user interfaces using React and Ant Design, and contribute to cloud-based applications built with Python and AWS.
 
 My experience includes developing serverless backend systems with AWS Lambda and API Gateway, and building scalable frontend interfaces using Ant Design.
 
